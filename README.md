@@ -99,7 +99,7 @@ Worked with Azure Key Vault to securely manage secrets, keys, certificates, acce
 
 ### University of the People
 
-Currently pursuing university studies through an online learning environment.
+Currently pursuing bachelor in computer science. 
 
 ### Tech Expert Academy
 
