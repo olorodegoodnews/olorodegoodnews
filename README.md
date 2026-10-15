@@ -53,7 +53,7 @@ My learning and projects are focused on practical cloud engineering and security
 
 Developing hands-on experience in cloud infrastructure and DevOps while working in a practical team environment. Building skills in infrastructure, cloud technologies, troubleshooting, collaboration, and real-world technical projects.
 
-### 🎧 Customer Care Representative
+### 🎧 Customer Care Representative  — CashBus
 
 Provided customer support by responding to inquiries, resolving customer issues, and helping customers understand available services. Developed practical experience in communication, troubleshooting, problem-solving, and customer relationship management.
 
